@@ -3,3 +3,4 @@ Feature: Login modules
 feature modules :Authentication page
 Feature Modules: user profile page
 Feature Modules : about section
+Feature Modules : Contact section
